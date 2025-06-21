@@ -13,7 +13,7 @@ Lightweight, fast, and installable with a single bookmarklet — no downloads, n
 3. Click the bookmark whenever you're on a webpage to launch Hubble
 
 > ✅ Works on most modern desktop browsers (Chrome, Firefox, Edge)
-(more sintructions on the setup site)
+(more intructions on the setup site)
 ---
 
 ## ✨ Features
