@@ -1,13 +1,24 @@
-Afterlife is a digital organization focused on developing engaging, browser-based gaming experiences.  
-Through its main project, hosted at classlinx.github.io, the group offers a platform called Afterlife Gaming,  
-where users can access a variety of games directly from their web browser.  
+# 🌌 Hubble
 
-The platform also features interactive elements like a global leaderboard and real-time chat,  
-enhancing community engagement.  
+**Hubble** is a web-based social platform that combines tweet-style text posts with swipeable short videos.
 
-Driven by a passion for accessible and entertaining online content,  
-Afterlife emphasizes a user-friendly interface and smooth performance.  
+Lightweight, fast, and installable with a single bookmarklet — no downloads, no setup, just instant access to a new kind of social experience unblockable by Dyknow and iBoss (your screen is still visible on Dyknow).
 
-While the organization maintains a low public profile,  
-its work reflects a commitment to creating immersive digital environments  
-for casual gamers and online communities alike.
+---
+
+## 🚀 How to Install
+
+1. Go to **[hubbesetup.github.io](https://hubbesetup.github.io)**
+2. Drag the **Hubble** button to your bookmarks bar
+3. Click the bookmark whenever you're on a webpage to launch Hubble
+
+> ✅ Works on most modern desktop browsers (Chrome, Firefox, Edge)
+(more sintructions on the setup site)
+---
+
+## ✨ Features
+
+- 📢 **Posts** — Share updates (280 characters)
+- 🎬 **Hubble Shorts** — Watch and post vertical video clips
+- 💬 **Interactive Feed** — Like, comment, and engage
+- 🧑‍🚀 **User Profiles** — Follow others and build your presence
