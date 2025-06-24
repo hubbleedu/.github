@@ -8,7 +8,7 @@ Lightweight, fast, and just a single bookmarklet — no downloads, no setup, jus
 
 ## 🚀 How to Install
 
-1. Go to **[hubbesetup.github.io](https://hubbesetup.github.io)**
+1. Go to **[hubblesetup.github.io](https://hubblesetup.github.io)**
 2. Drag the **Hubble** button to your bookmarks bar
 3. Click the bookmark whenever you're on a webpage to launch Hubble
 (more instructions on the setup site)
