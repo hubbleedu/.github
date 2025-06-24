@@ -18,7 +18,7 @@ Lightweight, fast, and just a single bookmarklet — no downloads, no setup, jus
 
 ## ✨ Features
 
-- 📢 **Posts** — Share updates and reply with comments
+- 📢 **Posts** — Share updates and reply with comments and reactions
 - 🎬 **Hubble Shorts** — Watch and post vertical video clips
 - 💬 **Private Messaging** — Send private and direct messages to other users and send messages to multpul people at the same time with group chats
 - 🧑‍🚀 **User Profiles** — Follow others, collect badges, set your status, and build your presence
