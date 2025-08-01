@@ -2,7 +2,7 @@
 
 **Hubble** is a web-based social platform that combines tweet-style text posts with swipeable short videos.
 
-Lightweight, fast, and just a single bookmarklet — no downloads, no setup, just instant access to a new kind of social experience unblockable by Dyknow and iBoss (your screen is still visible on Dyknow and the install site can still be blocked so set it up wuick!).
+Lightweight, fast, and just a single bookmarklet — no downloads, no setup, just instant access to a new kind of social experience unblockable by Dyknow and iBoss (your screen is still visible on Dyknow and the install site can still be blocked so set it up quick!).
 
 ---
 
