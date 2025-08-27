@@ -1,6 +1,6 @@
 # 🌌 Hubble
 
-**Hubble** is a web-based social platform that combines tweet-style text posts with swipeable short videos.
+**Hubble** is a web-based social platform that combines text posts with quick and live messaging, user profiles, and games new and loved.
 
 Lightweight, fast, and just a single bookmarklet — no downloads, no setup, just instant access to a new kind of social experience unblockable by Dyknow and iBoss (your screen is still visible on Dyknow and the install site can still be blocked so set it up quick!).
 
@@ -19,6 +19,6 @@ Lightweight, fast, and just a single bookmarklet — no downloads, no setup, jus
 ## ✨ Features
 
 - 📢 **Posts** — Share updates and reply with comments and reactions
-- 🎬 **Hubble Shorts** — Watch and post vertical video clips (similer to Youtube shorts or Tiktok but created by, and only by, your fellow students!)
 - 💬 **Private Messaging** — Send private and direct messages to other users and send messages to multpul people at the same time with group chats
-- 🧑‍🚀 **User Profiles** — Follow others, collect badges, set your status, and build your presence
+- 👤 **User Profiles** — Follow others, collect badges, set your status, and build your presence
+- 🕹️ **Games** — Play and enjoy games you know and love and a few titles that you just might like
