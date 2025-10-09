@@ -1,4 +1,4 @@
-# 🌌 Hubble
+# Hubble <code style="color : red">(Currently In Beta)</code>
 
 **Hubble** is a web-based social platform that combines text posts with quick and live messaging, user profiles, and games new and loved.
 
@@ -18,7 +18,7 @@ Lightweight, fast, and just a single bookmarklet — no downloads, no setup, jus
 
 ## ✨ Features
 
-- 📢 **Posts** — Share updates and reply with comments and reactions
+- 🎮 **Games** — Play and enjoy games you know and love and a few titles that you just might like
+- 📢 **Chatbot** — Ask anything-from general questions to your school work
 - 💬 **Private Messaging** — Send private and direct messages to other users and send messages to multpul people at the same time with group chats
 - 👤 **User Profiles** — Follow others, collect badges, set your status, and build your presence
-- 🕹️ **Games** — Play and enjoy games you know and love and a few titles that you just might like
