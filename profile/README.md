@@ -1,4 +1,4 @@
-# Hubble <code style="color : red">(Currently In Beta)</code>
+# Hubble <code style="color : red">(Currently Active In Development)</code>
 
 **Hubble** is a web-based social platform that combines text posts with quick and live messaging, user profiles, and games new and loved.
 
